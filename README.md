@@ -15,7 +15,7 @@ $ bash root.sh
 $ Press Enter (On Keyboard; Don't Write)
 
 (Here Two Options
-1. Boot2Root
+1. Boot
 2. JustRoot
 WE HAVE TO SELECT SECOND OPTION SO WRITE THE COMMAND)
 
