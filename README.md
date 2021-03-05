@@ -8,7 +8,7 @@ $ apt upgrade
 $ apt install git 
 $ git clone https://github.com/Yuma-Tsushima07/RootTermux
 $ ls
-$ cd root
+$ cd RootTermux
 $ ls
 $ chmod 777 root.sh
 $ bash root.sh
