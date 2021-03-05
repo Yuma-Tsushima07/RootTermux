@@ -5,8 +5,8 @@ Root Termux is a way to root be a root user in termux without rooting your phone
 ```
 $ apt update
 $ apt upgrade
-$ apt install git https://github.com/Yuma-Tsushima07/RootTermux
-$ git clone 
+$ apt install git 
+$ git clone https://github.com/Yuma-Tsushima07/RootTermux
 $ ls
 $ cd root
 $ ls
