@@ -8,10 +8,10 @@ $ apt upgrade
 $ apt install git https://github.com/Yuma-Tsushima07/RootTermux
 $ git clone 
 $ ls
-$ cd RootMe
+$ cd root
 $ ls
-$ chmod 777 rootme.sh
-$ bash rootme.sh
+$ chmod 777 root.sh
+$ bash root.sh
 $ Press Enter (On Keyboard; Don't Write)
 
 (Here Two Options
